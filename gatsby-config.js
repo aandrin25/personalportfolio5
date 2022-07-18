@@ -1,6 +1,6 @@
-const siteName = "Sample Blog";
-const siteShortName = "Sample Blog";
-const siteUrl = "https://geek.sg/";
+const siteName = "Nadri Network";
+const siteShortName = "Nadri Network";
+const siteUrl = "https://nadrinetwork.com";
 const siteDescription = "Sample blog template";
 const siteKeyword = "";
 const siteLogo = "logo.png";
@@ -62,7 +62,7 @@ module.exports = {
         short_name: siteShortName,
         description: siteDescription,
         background_color: `#ffffff`,
-        theme_color: `#ffffff`,
+        theme_color: `#FF924D`,
         display: `standalone`,
         lang: "en",
         start_url: "/",
