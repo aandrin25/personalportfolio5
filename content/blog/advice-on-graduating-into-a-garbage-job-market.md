@@ -1,16 +1,14 @@
 ---
 template: blog-post
-title: Advice On Graduating Into A Garbage Job Market
-publishedDate: 2020-08-13T12:00:28.345Z
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-  eiusmod tempor incididunt ut labore et dolore magna aliqua. Nisl vel pretium
-  lectus quam. Enim neque volutpat ac tincidunt vitae semper quis lectus. At
-  erat pellentesque adipiscing commodo elit at.
+title: Reggies Linear Regression
+publishedDate: 2022-07-13T12:00:28.345Z
+description: Codecademy project where I worked with linear regression to create a function that will find a line of best fit when given a set of data.
 featured: true
 img: ../../static/images/tables.jpeg
 imgAlt: Get a table?
 tags:
-  - opinion
+  - linear
+  - regression
   - finance
   - economy
 ---
